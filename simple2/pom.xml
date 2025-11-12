@@ -20,7 +20,7 @@
                     <archive>
                         <manifest>
                             <mainClass>
-                                com.chris.Hello
+                                simple2.Main
                             </mainClass>
                         </manifest>
                     </archive>
