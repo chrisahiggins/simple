@@ -33,7 +33,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/chrisahiggins/simple</url>
+            <url>https://maven.pkg.github.com/chrisahiggins/maven-eclipse</url>
         </repository>
     </distributionManagement>
 
